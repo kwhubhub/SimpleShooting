@@ -1,5 +1,6 @@
 # SimpleShooting
- 
+URL：https://unityroom.com/games/simpleshooting  
+
 2022年3月ごろ作成　　
 アセット使用のため、スクリプトのみアップしておく  
 
